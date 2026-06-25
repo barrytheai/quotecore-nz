@@ -884,7 +884,7 @@ export default function HomePage() {
                     <p>Throughout that journey, he encountered the same problem repeatedly: no matter the industry, businesses were forced to juggle multiple apps, spreadsheets, emails, and documents just to take a job from quote to payment.</p>
                     <p>There wasn&apos;t a single platform that was flexible enough to adapt to how individual businesses actually work.</p>
                     <p><span className="brand-wordmark">QuoteCore<span className="brand-plus">+</span></span> was founded from that real trade experience and built by the QuoteCore+ team to solve the messy gap between measuring a job and getting paid. The goal was simple: build a powerful yet flexible platform that works around your existing processes - making them faster, more organised, less chaotic, and ultimately more profitable.</p>
-                    <p className="font-medium text-zinc-800">&ldquo;I lived the quoting mess first-hand. The team built QuoteCore+ around that workflow - practical, simple, and designed to adapt to the way every business works.&rdquo;</p>
+                    <p className="font-medium text-zinc-800">&ldquo;We built QuoteCore+ around the workflow I wish I had years ago - practical, simple, and designed to adapt to the way every business works.&rdquo;</p>
                   </div>
                 </div>
                 <div className="relative hidden overflow-hidden rounded-r-[2rem] lg:block" style={{minHeight: "400px"}}>
