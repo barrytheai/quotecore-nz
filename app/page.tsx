@@ -141,8 +141,8 @@ export default function HomePage() {
     },
     {
       name: "Starter",
-      nzd: "NZ$30/mo",
-      originalNzd: "NZ$65/mo",
+      nzd: "$30/mo",
+      originalNzd: "$65/mo",
       subtitle: "For solo traders quoting regularly",
       features: ["25 quotes", "500 MB storage", "All core features", "No card for trial"],
       featured: false,
@@ -151,8 +151,8 @@ export default function HomePage() {
     },
     {
       name: "Professional",
-      nzd: "NZ$65/mo",
-      originalNzd: "NZ$149/mo",
+      nzd: "$65/mo",
+      originalNzd: "$149/mo",
       subtitle: "For growing trade businesses",
       features: ["100 quotes", "3 GB storage", "All core features", "Priority support"],
       featured: true,
@@ -161,8 +161,8 @@ export default function HomePage() {
     },
     {
       name: "Pro Plus",
-      nzd: "NZ$99/mo",
-      originalNzd: "NZ$200/mo",
+      nzd: "$99/mo",
+      originalNzd: "$200/mo",
       subtitle: "For established teams with high quote volume",
       features: ["200 quotes", "5 GB storage", "All core features", "Priority support"],
       featured: false,
